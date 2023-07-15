@@ -2,3 +2,6 @@
 
 
 Convert pdf files to jpg using python
+
+
+## pip install pdf2image
